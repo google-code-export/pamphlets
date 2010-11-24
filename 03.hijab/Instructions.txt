@@ -1,0 +1,109 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: 03.hijab.100515.v102.source.indd
+
+PACKAGE DATE: 15/5/2010 5:14 PM
+Creation Date: 15/5/2010
+Modification Date: 15/5/2010
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 1
+
+INBOOKLET SE.4X.PLN
+
+
+Non Opaque Objects :On Page1, 2
+
+FONTS
+9 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: AJensonPro-It; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeue-Bold; Type: Type 1, Status: OK
+- Name: HelveticaNeue-Heavy; Type: Type 1, Status: OK
+- Name: HelveticaNeue-Light; Type: Type 1, Status: OK
+- Name: HelveticaNeue-LightItalic; Type: Type 1, Status: OK
+- Name: HelveticaNeue-Roman; Type: Type 1, Status: OK
+- Name: HelveticaNeue-Thin; Type: Type 1, Status: OK
+- Name: Humanist521BT-Roman; Type: TrueType, Status: OK
+- Name: Pristina-Regular; Type: OpenType TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 71.565; Lines/Inch: 63.245
+- Name and Type: Process Magenta; Angle: 18.434; Lines/Inch: 63.245
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 66.666
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.710
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 18 Links Found; 0 Modified, 0 Missing
+Images: 0 Embedded, 0 use RGB color space
+
+
+PRINT SETTINGS
+PPD: AdobePDF 7.0, (Adobe PDF)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: Scale to fit page
+Page Position: Center
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 mm, 0 mm, 0 mm, 0 mm
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: A4
+Paper Dimensions: 209.98 mm x 297.039 mm
+Orientation: Landscape
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. 03.hijab.100515.v102.source.indd; type: Adobe InDesign publication; size: 4112K
+2. AJensonPro-It.otf; type: Font file; size: 155K
+3. HLB____.PFB; type: Font file; size: 27K
+4. HLB____.PFM; type: Font file; size: 1K
+5. HLH____.PFB; type: Font file; size: 28K
+6. HLH____.PFM; type: Font file; size: 1K
+7. HLL____.PFB; type: Font file; size: 27K
+8. HLL____.PFM; type: Font file; size: 1K
+9. HLLI___.PFB; type: Font file; size: 27K
+10. HLLI___.PFM; type: Font file; size: 1K
+11. HLR____.PFB; type: Font file; size: 26K
+12. HLR____.PFM; type: Font file; size: 1K
+13. HLT____.PFB; type: Font file; size: 28K
+14. HLT____.PFM; type: Font file; size: 1K
+15. hum521n (2).TTF; type: Font file; size: 37K
+16. PRISTINA.TTF; type: Font file; size: 80K
