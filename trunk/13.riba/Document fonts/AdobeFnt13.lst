@@ -11,12 +11,12 @@ FullName:Adobe Jenson Pro Bold Italic Display
 MenuName:Adobe Jenson Pro Disp
 StyleBits:3
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\AJensonPro-BoldItDisp.otf
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\AJensonPro-BoldItDisp.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:154976
-FileModTime:978274800
+FileModTime:1290606119
 WeightClass:700
 WidthClass:5
 AngleClass:1
@@ -33,12 +33,12 @@ FullName:Adobe Jenson Pro Italic
 MenuName:Adobe Jenson Pro
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\AJensonPro-It.otf
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\AJensonPro-It.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:158744
-FileModTime:978274800
+FileModTime:1290606118
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -55,12 +55,12 @@ FullName:Adobe Jenson Pro Italic Display
 MenuName:Adobe Jenson Pro Disp
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\AJensonPro-ItDisp.otf
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\AJensonPro-ItDisp.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:157360
-FileModTime:978274800
+FileModTime:1290606119
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -77,12 +77,12 @@ FullName:Adobe Jenson Pro Light
 MenuName:Adobe Jenson Pro Lt
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\AJensonPro-Lt.otf
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\AJensonPro-Lt.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:128320
-FileModTime:978274800
+FileModTime:1290606118
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -99,12 +99,12 @@ FullName:Helvetica 76 Bold Italic
 MenuName:Helvetica 55
 StyleBits:3
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLBI___.PFB
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLBI___.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:29021
-FileModTime:641487600
+FileModTime:1290606118
 WeightClass:700
 WidthClass:5
 AngleClass:1
@@ -116,9 +116,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-BoldItalic
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLBI___.PFM
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLBI___.PFM
 FileLength:1054
-FileModTime:729958914
+FileModTime:1290606119
 %EndFont
 
 %BeginFont
@@ -131,12 +131,12 @@ FullName:Helvetica 75 Bold
 MenuName:Helvetica 55
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLB____.PFB
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLB____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28216
-FileModTime:641487600
+FileModTime:1290606119
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -148,9 +148,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Bold
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLB____.PFM
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLB____.PFM
 FileLength:1080
-FileModTime:729958912
+FileModTime:1290606118
 %EndFont
 
 %BeginFont
@@ -163,12 +163,12 @@ FullName:Helvetica 85 Heavy
 MenuName:Helvetica 65
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLH____.PFB
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLH____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:29085
-FileModTime:641487600
+FileModTime:1290606119
 WeightClass:850
 WidthClass:5
 AngleClass:0
@@ -180,9 +180,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Heavy
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLH____.PFM
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLH____.PFM
 FileLength:1093
-FileModTime:729960634
+FileModTime:1290606119
 %EndFont
 
 %BeginFont
@@ -195,12 +195,12 @@ FullName:Helvetica 56 Italic
 MenuName:Helvetica 55
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLI____.PFB
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLI____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:27791
-FileModTime:641487600
+FileModTime:1290606119
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -212,9 +212,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Italic
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLI____.PFM
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLI____.PFM
 FileLength:1062
-FileModTime:729958910
+FileModTime:1290606119
 %EndFont
 
 %BeginFont
@@ -227,12 +227,12 @@ FullName:Helvetica 46 Light Italic
 MenuName:Helvetica 45
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLLI___.PFB
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLLI___.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28374
-FileModTime:641487600
+FileModTime:1290606119
 WeightClass:300
 WidthClass:5
 AngleClass:1
@@ -244,9 +244,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-LightItalic
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLLI___.PFM
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLLI___.PFM
 FileLength:1059
-FileModTime:729960632
+FileModTime:1290606119
 %EndFont
 
 %BeginFont
@@ -259,12 +259,12 @@ FullName:Helvetica 45 Light
 MenuName:Helvetica 45
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLL____.PFB
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLL____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:27999
-FileModTime:641487600
+FileModTime:1290606118
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -276,9 +276,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Light
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLL____.PFM
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLL____.PFM
 FileLength:1093
-FileModTime:729960630
+FileModTime:1290606119
 %EndFont
 
 %BeginFont
@@ -291,12 +291,12 @@ FullName:Helvetica 66 Medium Italic
 MenuName:Helvetica 65
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLMI___.PFB
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLMI___.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28855
-FileModTime:641487600
+FileModTime:1290606119
 WeightClass:500
 WidthClass:5
 AngleClass:1
@@ -308,9 +308,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-MediumItalic
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLMI___.PFM
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLMI___.PFM
 FileLength:1056
-FileModTime:729960634
+FileModTime:1290606119
 %EndFont
 
 %BeginFont
@@ -323,12 +323,12 @@ FullName:Helvetica 55 Roman
 MenuName:Helvetica 55
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLR____.PFB
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLR____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:27176
-FileModTime:641487600
+FileModTime:1290606118
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -340,9 +340,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Roman
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLR____.PFM
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLR____.PFM
 FileLength:1085
-FileModTime:729958910
+FileModTime:1290606119
 %EndFont
 
 %BeginFont
@@ -355,12 +355,12 @@ FullName:Helvetica 36 Thin Italic
 MenuName:Helvetica 35
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLTI___.PFB
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLTI___.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28743
-FileModTime:641487600
+FileModTime:1290606119
 WeightClass:200
 WidthClass:5
 AngleClass:1
@@ -372,9 +372,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-ThinItalic
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLTI___.PFM
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLTI___.PFM
 FileLength:1078
-FileModTime:729958910
+FileModTime:1290606119
 %EndFont
 
 %BeginFont
@@ -387,12 +387,12 @@ FullName:Helvetica 35 Thin
 MenuName:Helvetica 35
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLT____.PFB
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLT____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:29157
-FileModTime:641487600
+FileModTime:1290606119
 WeightClass:200
 WidthClass:5
 AngleClass:0
@@ -404,9 +404,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Thin
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\HLT____.PFM
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLT____.PFM
 FileLength:1036
-FileModTime:729958908
+FileModTime:1290606119
 %EndFont
 
 %BeginFont
@@ -419,10 +419,10 @@ FullName:Humanist 521 BT
 MenuName:Humanst521 BT
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\indd.designs\tmp\13.riba\Document fonts\hum521n (2).TTF
+OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\hum521n (2).TTF
 DataFormat:sfntData
 FileLength:38124
-FileModTime:840403560
+FileModTime:1290606119
 WeightClass:400
 WidthClass:5
 AngleClass:0
