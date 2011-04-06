@@ -16,7 +16,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:154976
-FileModTime:1290606119
+FileModTime:1290602519
 WeightClass:700
 WidthClass:5
 AngleClass:1
@@ -38,7 +38,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:158744
-FileModTime:1290606118
+FileModTime:1290602518
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -60,7 +60,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:157360
-FileModTime:1290606119
+FileModTime:1290602519
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -82,7 +82,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:128320
-FileModTime:1290606118
+FileModTime:1290602518
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -104,7 +104,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:29021
-FileModTime:1290606118
+FileModTime:1290602518
 WeightClass:700
 WidthClass:5
 AngleClass:1
@@ -118,7 +118,7 @@ FontName:HelveticaNeue-BoldItalic
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLBI___.PFM
 FileLength:1054
-FileModTime:1290606119
+FileModTime:1290602519
 %EndFont
 
 %BeginFont
@@ -136,7 +136,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28216
-FileModTime:1290606119
+FileModTime:1290602519
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -150,7 +150,7 @@ FontName:HelveticaNeue-Bold
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLB____.PFM
 FileLength:1080
-FileModTime:1290606118
+FileModTime:1290602518
 %EndFont
 
 %BeginFont
@@ -168,7 +168,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:29085
-FileModTime:1290606119
+FileModTime:1290602519
 WeightClass:850
 WidthClass:5
 AngleClass:0
@@ -182,7 +182,7 @@ FontName:HelveticaNeue-Heavy
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLH____.PFM
 FileLength:1093
-FileModTime:1290606119
+FileModTime:1290602519
 %EndFont
 
 %BeginFont
@@ -200,7 +200,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:27791
-FileModTime:1290606119
+FileModTime:1290602519
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -214,7 +214,7 @@ FontName:HelveticaNeue-Italic
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLI____.PFM
 FileLength:1062
-FileModTime:1290606119
+FileModTime:1290602519
 %EndFont
 
 %BeginFont
@@ -232,7 +232,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28374
-FileModTime:1290606119
+FileModTime:1290602519
 WeightClass:300
 WidthClass:5
 AngleClass:1
@@ -246,7 +246,7 @@ FontName:HelveticaNeue-LightItalic
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLLI___.PFM
 FileLength:1059
-FileModTime:1290606119
+FileModTime:1290602519
 %EndFont
 
 %BeginFont
@@ -264,7 +264,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:27999
-FileModTime:1290606118
+FileModTime:1290602518
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -278,7 +278,7 @@ FontName:HelveticaNeue-Light
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLL____.PFM
 FileLength:1093
-FileModTime:1290606119
+FileModTime:1290602519
 %EndFont
 
 %BeginFont
@@ -296,7 +296,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28855
-FileModTime:1290606119
+FileModTime:1290602519
 WeightClass:500
 WidthClass:5
 AngleClass:1
@@ -310,7 +310,7 @@ FontName:HelveticaNeue-MediumItalic
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLMI___.PFM
 FileLength:1056
-FileModTime:1290606119
+FileModTime:1290602519
 %EndFont
 
 %BeginFont
@@ -328,7 +328,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:27176
-FileModTime:1290606118
+FileModTime:1290602518
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -342,7 +342,7 @@ FontName:HelveticaNeue-Roman
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLR____.PFM
 FileLength:1085
-FileModTime:1290606119
+FileModTime:1290602519
 %EndFont
 
 %BeginFont
@@ -360,7 +360,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28743
-FileModTime:1290606119
+FileModTime:1290602519
 WeightClass:200
 WidthClass:5
 AngleClass:1
@@ -374,7 +374,7 @@ FontName:HelveticaNeue-ThinItalic
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLTI___.PFM
 FileLength:1078
-FileModTime:1290606119
+FileModTime:1290602519
 %EndFont
 
 %BeginFont
@@ -392,7 +392,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:29157
-FileModTime:1290606119
+FileModTime:1290602519
 WeightClass:200
 WidthClass:5
 AngleClass:0
@@ -406,7 +406,7 @@ FontName:HelveticaNeue-Thin
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\HLT____.PFM
 FileLength:1036
-FileModTime:1290606119
+FileModTime:1290602519
 %EndFont
 
 %BeginFont
@@ -422,7 +422,7 @@ WritingScript:Roman
 OutlineFileName:E:\My Documents\Pamphlets\svn\13.riba\Document fonts\hum521n (2).TTF
 DataFormat:sfntData
 FileLength:38124
-FileModTime:1290606119
+FileModTime:1290602519
 WeightClass:400
 WidthClass:5
 AngleClass:0

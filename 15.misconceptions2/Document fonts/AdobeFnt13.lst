@@ -14,7 +14,7 @@ WritingScript:Roman
 OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\154.TTF
 DataFormat:sfntData
 FileLength:78432
-FileModTime:967735092
+FileModTime:967731492
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -35,7 +35,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:154976
-FileModTime:978274800
+FileModTime:978271200
 WeightClass:700
 WidthClass:5
 AngleClass:1
@@ -57,7 +57,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:158744
-FileModTime:978274800
+FileModTime:978271200
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -79,7 +79,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:157360
-FileModTime:978274800
+FileModTime:978271200
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -101,7 +101,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28216
-FileModTime:641487600
+FileModTime:641484000
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -115,7 +115,7 @@ FontName:HelveticaNeue-Bold
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLB____.PFM
 FileLength:1080
-FileModTime:729958912
+FileModTime:729955312
 %EndFont
 
 %BeginFont
@@ -133,7 +133,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:29085
-FileModTime:641487600
+FileModTime:641484000
 WeightClass:850
 WidthClass:5
 AngleClass:0
@@ -147,7 +147,7 @@ FontName:HelveticaNeue-Heavy
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLH____.PFM
 FileLength:1093
-FileModTime:729960634
+FileModTime:729957034
 %EndFont
 
 %BeginFont
@@ -165,7 +165,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28374
-FileModTime:641487600
+FileModTime:641484000
 WeightClass:300
 WidthClass:5
 AngleClass:1
@@ -179,7 +179,7 @@ FontName:HelveticaNeue-LightItalic
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLLI___.PFM
 FileLength:1059
-FileModTime:729960632
+FileModTime:729957032
 %EndFont
 
 %BeginFont
@@ -197,7 +197,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:27999
-FileModTime:641487600
+FileModTime:641484000
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -211,7 +211,7 @@ FontName:HelveticaNeue-Light
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLL____.PFM
 FileLength:1093
-FileModTime:729960630
+FileModTime:729957030
 %EndFont
 
 %BeginFont
@@ -229,7 +229,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28275
-FileModTime:641487600
+FileModTime:641484000
 WeightClass:500
 WidthClass:5
 AngleClass:0
@@ -243,7 +243,7 @@ FontName:HelveticaNeue-Medium
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLM____.PFM
 FileLength:1086
-FileModTime:729960632
+FileModTime:729957032
 %EndFont
 
 %BeginFont
@@ -261,7 +261,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:27176
-FileModTime:641487600
+FileModTime:641484000
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -275,7 +275,7 @@ FontName:HelveticaNeue-Roman
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLR____.PFM
 FileLength:1085
-FileModTime:729958910
+FileModTime:729955310
 %EndFont
 
 %BeginFont
@@ -293,7 +293,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:29157
-FileModTime:641487600
+FileModTime:641484000
 WeightClass:200
 WidthClass:5
 AngleClass:0
@@ -307,7 +307,7 @@ FontName:HelveticaNeue-Thin
 NumMMAxes:0
 OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLT____.PFM
 FileLength:1036
-FileModTime:729958908
+FileModTime:729955308
 %EndFont
 
 %BeginFont
@@ -323,7 +323,7 @@ WritingScript:Roman
 OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\hum521n (2).TTF
 DataFormat:sfntData
 FileLength:38124
-FileModTime:840403560
+FileModTime:840399960
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -342,7 +342,7 @@ WritingScript:Roman
 OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\PRISTINA.TTF
 DataFormat:sfntData
 FileLength:82680
-FileModTime:939938164
+FileModTime:939934564
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -364,7 +364,7 @@ WritingScript:Thai
 OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\upcib.ttf
 DataFormat:sfntData
 FileLength:71080
-FileModTime:1244670253
+FileModTime:1244666653
 WeightClass:700
 WidthClass:5
 AngleClass:0
