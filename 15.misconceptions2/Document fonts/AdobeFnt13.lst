@@ -11,10 +11,10 @@ FullName:Times Roman
 MenuName:Times
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\154.TTF
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\154.TTF
 DataFormat:sfntData
 FileLength:78432
-FileModTime:967731492
+FileModTime:1301908967
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -30,12 +30,12 @@ FullName:Adobe Jenson Pro Bold Italic Display
 MenuName:Adobe Jenson Pro Disp
 StyleBits:3
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\AJensonPro-BoldItDisp.otf
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\AJensonPro-BoldItDisp.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:154976
-FileModTime:978271200
+FileModTime:1301908967
 WeightClass:700
 WidthClass:5
 AngleClass:1
@@ -52,12 +52,12 @@ FullName:Adobe Jenson Pro Italic
 MenuName:Adobe Jenson Pro
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\AJensonPro-It.otf
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\AJensonPro-It.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:158744
-FileModTime:978271200
+FileModTime:1301908967
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -74,12 +74,12 @@ FullName:Adobe Jenson Pro Italic Display
 MenuName:Adobe Jenson Pro Disp
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\AJensonPro-ItDisp.otf
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\AJensonPro-ItDisp.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:157360
-FileModTime:978271200
+FileModTime:1301908967
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -96,12 +96,12 @@ FullName:Helvetica 75 Bold
 MenuName:Helvetica 55
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLB____.PFB
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\HLB____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28216
-FileModTime:641484000
+FileModTime:1301908967
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -113,9 +113,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Bold
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLB____.PFM
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\HLB____.PFM
 FileLength:1080
-FileModTime:729955312
+FileModTime:1301908967
 %EndFont
 
 %BeginFont
@@ -128,12 +128,12 @@ FullName:Helvetica 85 Heavy
 MenuName:Helvetica 65
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLH____.PFB
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\HLH____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:29085
-FileModTime:641484000
+FileModTime:1301908967
 WeightClass:850
 WidthClass:5
 AngleClass:0
@@ -145,9 +145,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Heavy
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLH____.PFM
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\HLH____.PFM
 FileLength:1093
-FileModTime:729957034
+FileModTime:1301908967
 %EndFont
 
 %BeginFont
@@ -160,12 +160,12 @@ FullName:Helvetica 46 Light Italic
 MenuName:Helvetica 45
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLLI___.PFB
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\HLLI___.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28374
-FileModTime:641484000
+FileModTime:1301908967
 WeightClass:300
 WidthClass:5
 AngleClass:1
@@ -177,9 +177,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-LightItalic
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLLI___.PFM
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\HLLI___.PFM
 FileLength:1059
-FileModTime:729957032
+FileModTime:1301908967
 %EndFont
 
 %BeginFont
@@ -192,12 +192,12 @@ FullName:Helvetica 45 Light
 MenuName:Helvetica 45
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLL____.PFB
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\HLL____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:27999
-FileModTime:641484000
+FileModTime:1301908967
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -209,9 +209,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Light
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLL____.PFM
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\HLL____.PFM
 FileLength:1093
-FileModTime:729957030
+FileModTime:1301908967
 %EndFont
 
 %BeginFont
@@ -224,12 +224,12 @@ FullName:Helvetica 65 Medium
 MenuName:Helvetica 65
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLM____.PFB
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\HLM____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28275
-FileModTime:641484000
+FileModTime:1301908967
 WeightClass:500
 WidthClass:5
 AngleClass:0
@@ -241,9 +241,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Medium
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLM____.PFM
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\HLM____.PFM
 FileLength:1086
-FileModTime:729957032
+FileModTime:1301908967
 %EndFont
 
 %BeginFont
@@ -256,12 +256,12 @@ FullName:Helvetica 55 Roman
 MenuName:Helvetica 55
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLR____.PFB
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\HLR____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:27176
-FileModTime:641484000
+FileModTime:1301908967
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -273,9 +273,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Roman
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLR____.PFM
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\HLR____.PFM
 FileLength:1085
-FileModTime:729955310
+FileModTime:1301908967
 %EndFont
 
 %BeginFont
@@ -288,12 +288,12 @@ FullName:Helvetica 35 Thin
 MenuName:Helvetica 35
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLT____.PFB
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\HLT____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:29157
-FileModTime:641484000
+FileModTime:1301908967
 WeightClass:200
 WidthClass:5
 AngleClass:0
@@ -305,9 +305,9 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Thin
 NumMMAxes:0
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\HLT____.PFM
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\HLT____.PFM
 FileLength:1036
-FileModTime:729955308
+FileModTime:1301908967
 %EndFont
 
 %BeginFont
@@ -320,10 +320,10 @@ FullName:Humanist 521 BT
 MenuName:Humanst521 BT
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\hum521n (2).TTF
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\hum521n (2).TTF
 DataFormat:sfntData
 FileLength:38124
-FileModTime:840399960
+FileModTime:1301908967
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -339,10 +339,10 @@ FullName:Pristina
 MenuName:Pristina
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\PRISTINA.TTF
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\PRISTINA.TTF
 DataFormat:sfntData
 FileLength:82680
-FileModTime:939934564
+FileModTime:1301908967
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -361,10 +361,10 @@ FamilyNameNative:
 StyleNameNative:Bold
 FullNameNative:
 WritingScript:Thai
-OutlineFileName:E:\My Documents\Pamphlets\svn\15.misconceptions2\Document fonts\upcib.ttf
+OutlineFileName:D:\Pamphlets\pamphlet_svn\15.misconceptions2\Document fonts\upcib.ttf
 DataFormat:sfntData
 FileLength:71080
-FileModTime:1244666653
+FileModTime:1301908967
 WeightClass:700
 WidthClass:5
 AngleClass:0
