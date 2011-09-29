@@ -11,7 +11,7 @@ FullName:Adobe Jenson Pro Bold Italic Caption
 MenuName:Adobe Jenson Pro Capt
 StyleBits:3
 WritingScript:Roman
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\AJensonPro-BoldItCapt.otf
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\AJensonPro-BoldItCapt.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -33,7 +33,7 @@ FullName:Adobe Jenson Pro Bold Italic Display
 MenuName:Adobe Jenson Pro Disp
 StyleBits:3
 WritingScript:Roman
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\AJensonPro-BoldItDisp.otf
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\AJensonPro-BoldItDisp.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -55,7 +55,7 @@ FullName:Adobe Jenson Pro Bold Italic Subhead
 MenuName:Adobe Jenson Pro Subh
 StyleBits:3
 WritingScript:Roman
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\AJensonPro-BoldItSubh.otf
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\AJensonPro-BoldItSubh.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -77,7 +77,7 @@ FullName:Adobe Jenson Pro Italic
 MenuName:Adobe Jenson Pro
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\AJensonPro-It.otf
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\AJensonPro-It.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -99,7 +99,7 @@ FullName:Helvetica 75 Bold
 MenuName:Helvetica 55
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\HLB____.PFB
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLB____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
@@ -116,7 +116,7 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Bold
 NumMMAxes:0
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\HLB____.PFM
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLB____.PFM
 FileLength:1080
 FileModTime:729955312
 %EndFont
@@ -131,7 +131,7 @@ FullName:Helvetica 85 Heavy
 MenuName:Helvetica 65
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\HLH____.PFB
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLH____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
@@ -148,7 +148,7 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Heavy
 NumMMAxes:0
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\HLH____.PFM
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLH____.PFM
 FileLength:1093
 FileModTime:729957034
 %EndFont
@@ -163,7 +163,7 @@ FullName:Helvetica 46 Light Italic
 MenuName:Helvetica 45
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\HLLI___.PFB
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLLI___.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
@@ -180,7 +180,7 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-LightItalic
 NumMMAxes:0
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\HLLI___.PFM
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLLI___.PFM
 FileLength:1059
 FileModTime:729957032
 %EndFont
@@ -195,7 +195,7 @@ FullName:Helvetica 45 Light
 MenuName:Helvetica 45
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\HLL____.PFB
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLL____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
@@ -212,7 +212,7 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Light
 NumMMAxes:0
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\HLL____.PFM
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLL____.PFM
 FileLength:1093
 FileModTime:729957030
 %EndFont
@@ -227,7 +227,7 @@ FullName:Helvetica 55 Roman
 MenuName:Helvetica 55
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\HLR____.PFB
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLR____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
@@ -244,7 +244,7 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Roman
 NumMMAxes:0
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\HLR____.PFM
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLR____.PFM
 FileLength:1085
 FileModTime:729955310
 %EndFont
@@ -259,7 +259,7 @@ FullName:Helvetica 35 Thin
 MenuName:Helvetica 35
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\HLT____.PFB
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLT____.PFB
 DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
@@ -276,7 +276,7 @@ Handler:DirectoryHandler
 FontType:PFM
 FontName:HelveticaNeue-Thin
 NumMMAxes:0
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\HLT____.PFM
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLT____.PFM
 FileLength:1036
 FileModTime:729955308
 %EndFont
@@ -291,7 +291,7 @@ FullName:Humanist 521 BT
 MenuName:Humanst521 BT
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\hum521n (2).TTF
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\hum521n (2).TTF
 DataFormat:sfntData
 FileLength:38124
 FileModTime:840399960
@@ -310,7 +310,7 @@ FullName:Pristina
 MenuName:Pristina
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqa\Document fonts\PRISTINA.TTF
+OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\PRISTINA.TTF
 DataFormat:sfntData
 FileLength:82680
 FileModTime:939938164
