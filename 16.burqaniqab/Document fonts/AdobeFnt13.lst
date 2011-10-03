@@ -16,7 +16,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:159940
-FileModTime:978271200
+FileModTime:978274800
 WeightClass:700
 WidthClass:5
 AngleClass:1
@@ -38,7 +38,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:154976
-FileModTime:978271200
+FileModTime:978274800
 WeightClass:700
 WidthClass:5
 AngleClass:1
@@ -60,7 +60,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:158284
-FileModTime:978271200
+FileModTime:978274800
 WeightClass:700
 WidthClass:5
 AngleClass:1
@@ -82,7 +82,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:158744
-FileModTime:978271200
+FileModTime:978274800
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -104,7 +104,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28216
-FileModTime:641484000
+FileModTime:641487600
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -118,7 +118,7 @@ FontName:HelveticaNeue-Bold
 NumMMAxes:0
 OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLB____.PFM
 FileLength:1080
-FileModTime:729955312
+FileModTime:729958912
 %EndFont
 
 %BeginFont
@@ -136,7 +136,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:29085
-FileModTime:641484000
+FileModTime:641487600
 WeightClass:850
 WidthClass:5
 AngleClass:0
@@ -150,7 +150,7 @@ FontName:HelveticaNeue-Heavy
 NumMMAxes:0
 OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLH____.PFM
 FileLength:1093
-FileModTime:729957034
+FileModTime:729960634
 %EndFont
 
 %BeginFont
@@ -168,7 +168,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:28374
-FileModTime:641484000
+FileModTime:641487600
 WeightClass:300
 WidthClass:5
 AngleClass:1
@@ -182,7 +182,7 @@ FontName:HelveticaNeue-LightItalic
 NumMMAxes:0
 OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLLI___.PFM
 FileLength:1059
-FileModTime:729957032
+FileModTime:729960632
 %EndFont
 
 %BeginFont
@@ -200,7 +200,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:27999
-FileModTime:641484000
+FileModTime:641487600
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -214,7 +214,7 @@ FontName:HelveticaNeue-Light
 NumMMAxes:0
 OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLL____.PFM
 FileLength:1093
-FileModTime:729957030
+FileModTime:729960630
 %EndFont
 
 %BeginFont
@@ -232,7 +232,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:27176
-FileModTime:641484000
+FileModTime:641487600
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -246,7 +246,7 @@ FontName:HelveticaNeue-Roman
 NumMMAxes:0
 OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLR____.PFM
 FileLength:1085
-FileModTime:729955310
+FileModTime:729958910
 %EndFont
 
 %BeginFont
@@ -264,7 +264,7 @@ DataFormat:Plain
 UsesStandardEncoding:yes
 isCFF:no
 FileLength:29157
-FileModTime:641484000
+FileModTime:641487600
 WeightClass:200
 WidthClass:5
 AngleClass:0
@@ -278,7 +278,7 @@ FontName:HelveticaNeue-Thin
 NumMMAxes:0
 OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\HLT____.PFM
 FileLength:1036
-FileModTime:729955308
+FileModTime:729958908
 %EndFont
 
 %BeginFont
@@ -294,7 +294,7 @@ WritingScript:Roman
 OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\hum521n (2).TTF
 DataFormat:sfntData
 FileLength:38124
-FileModTime:840399960
+FileModTime:840403560
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -313,7 +313,7 @@ WritingScript:Roman
 OutlineFileName:D:\Pamphlets\pamphlet_svn\16.burqaniqab\Document fonts\PRISTINA.TTF
 DataFormat:sfntData
 FileLength:82680
-FileModTime:939938164
+FileModTime:939941764
 WeightClass:400
 WidthClass:5
 AngleClass:0
