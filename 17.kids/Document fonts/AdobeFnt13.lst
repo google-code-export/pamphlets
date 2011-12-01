@@ -1,0 +1,274 @@
+%!Adobe-FontList 1.13
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BerlinSansFB-Bold
+FamilyName:Berlin Sans FB
+StyleName:Bold
+FullName:Berlin Sans FB Bold
+MenuName:Berlin Sans FB
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\BRLNSB.TTF
+DataFormat:sfntData
+FileLength:96880
+FileModTime:900387706
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Bold
+FamilyName:Helvetica Neue
+StyleName:75 Bold
+FullName:Helvetica 75 Bold
+MenuName:Helvetica 55
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\HLB____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28216
+FileModTime:641487600
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Bold
+NumMMAxes:0
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\HLB____.PFM
+FileLength:1080
+FileModTime:729958912
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Heavy
+FamilyName:Helvetica Neue
+StyleName:85 Heavy
+FullName:Helvetica 85 Heavy
+MenuName:Helvetica 65
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\HLH____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29085
+FileModTime:641487600
+WeightClass:850
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Heavy
+NumMMAxes:0
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\HLH____.PFM
+FileLength:1093
+FileModTime:729960634
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightItalic
+FamilyName:Helvetica Neue
+StyleName:46 Light Italic
+FullName:Helvetica 46 Light Italic
+MenuName:Helvetica 45
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\HLLI___.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28374
+FileModTime:641487600
+WeightClass:300
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-LightItalic
+NumMMAxes:0
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\HLLI___.PFM
+FileLength:1059
+FileModTime:729960632
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Light
+FamilyName:Helvetica Neue
+StyleName:45 Light
+FullName:Helvetica 45 Light
+MenuName:Helvetica 45
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\HLL____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:27999
+FileModTime:641487600
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Light
+NumMMAxes:0
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\HLL____.PFM
+FileLength:1093
+FileModTime:729960630
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Medium
+FamilyName:Helvetica Neue
+StyleName:65 Medium
+FullName:Helvetica 65 Medium
+MenuName:Helvetica 65
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\HLM____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28275
+FileModTime:641487600
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Medium
+NumMMAxes:0
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\HLM____.PFM
+FileLength:1086
+FileModTime:729960632
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Roman
+FamilyName:Helvetica Neue
+StyleName:55 Roman
+FullName:Helvetica 55 Roman
+MenuName:Helvetica 55
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\HLR____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:27176
+FileModTime:641487600
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Roman
+NumMMAxes:0
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\HLR____.PFM
+FileLength:1085
+FileModTime:729958910
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Humanist521BT-Roman
+FamilyName:Humanst521 BT
+StyleName:Roman
+FullName:Humanist 521 BT
+MenuName:Humanst521 BT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\hum521n (2).TTF
+DataFormat:sfntData
+FileLength:38124
+FileModTime:840403560
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:231312
+FileModTime:1265258834
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TempusSansITC
+FamilyName:Tempus Sans ITC
+StyleName:Regular
+FullName:Tempus Sans ITC
+MenuName:Tempus Sans ITC
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\My Documents\Pamphlets\svn\17.kids\Document fonts\TEMPSITC.TTF
+DataFormat:sfntData
+FileLength:76100
+FileModTime:939941764
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
